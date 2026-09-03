@@ -1,10 +1,11 @@
-<h1 align="center">Olá! 👋 Sou o Gabriel Amaro</h1>
-
-<h3 align="center">Desenvolvedor Full-Stack | Engenheiro de Dados</h3>
-
-<p align="center">
-Dinâmico, com forte perfil analítico e pragmatismo para a resolução de problemas complexos. Foco na criação de soluções operacionais eficientes que resolvem dores reais de negócio, orquestrando fluxos de dados em nuvem e microsserviços.
-</p>
+<div align="center">
+  <img src="profile.jpg" width="150" style="border-radius: 50%;" alt="Gabriel Amaro" />
+  <h1>Olá! 👋 Sou o Gabriel Amaro</h1>
+  <h3>Desenvolvedor Full-Stack | Engenheiro de Dados</h3>
+  <p>
+    Dinâmico, com forte perfil analítico e pragmatismo para a resolução de problemas complexos. Foco na criação de soluções operacionais eficientes que resolvem dores reais de negócio, orquestrando fluxos de dados em nuvem e microsserviços.
+  </p>
+</div>
 
 ---
 
@@ -14,7 +15,7 @@ Dinâmico, com forte perfil analítico e pragmatismo para a resolução de probl
 - ⚙️ **Especialidades:** Java, Node.js, Google Cloud Platform (Cloud Run, BigQuery), Automações com Google Apps Script.
 - 🤖 Alta proficiência no uso de **IA para pair-programming autônomo** (Antigravity, Claude, Codex).
 - 💬 Pergunte-me sobre: **Arquiteturas Serverless, Engenharia de Dados, Integrações e APIs REST**.
-- 📫 Como me encontrar: **<a href="mailto:gabrielsn.amaro@gmail.com">gabrielsn.amaro@gmail.com</a>**
+- 📫 Como me encontrar: **<a href="mailto:gabrielsn.amaro@gmail.com">gabrielsn.amaro@gmail.com</a>** | **<a href="https://www.linkedin.com/in/gabrielamaro2006/">LinkedIn</a>**
 
 ---
 
@@ -49,11 +50,3 @@ Dinâmico, com forte perfil analítico e pragmatismo para a resolução de probl
 * 💻 **[Simuladores de Sistemas Operacionais](https://github.com/gabrielsnamaro/Scheduling_Algorithms_Simulator_OS)**: Construídos do zero em Java para testar algoritmos de escalonamento de CPU e gerenciamento de memória virtual.
 * 📧 **[Leitor de E-mails Corporativo (GAS)](https://github.com/gabrielsnamaro/appscript-lib-leitor-emails-atendimento)**: Biblioteca de parsing focada em leitura em massa e busca inteligente de e-mails de alta volumetria.
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielsnamaro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsnamaro&layout=compact&langs_count=7&theme=radical"/>
-</div>
