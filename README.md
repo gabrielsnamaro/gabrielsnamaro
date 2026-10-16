@@ -4,7 +4,7 @@
   <h3>Estudante de Engenharia de Software · Automações, Dados e APIs</h3>
   <p>
     Construo integrações orientadas a eventos entre CRM, e-mail, planilhas e mensageria, e pipelines incrementais e idempotentes para BigQuery e armazenamento compatível com S3.
-    Fora do estágio, faço aplicações web, extensões de navegador e um simulador de escalonamento de CPU em Java.
+    Fora do estágio, fiz aplicações web, extensões de navegador e um simulador de escalonamento de CPU em Java.
   </p>
   <p>
     <a href="mailto:gabrielsn.amaro@gmail.com"><img src="https://img.shields.io/badge/E--mail-gabrielsn.amaro%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail" /></a>
@@ -20,7 +20,7 @@
 - 💼 **Estagiário de Desenvolvimento de Software, Automações e QA** na Smart Leilões Imobiliária desde ago/2025.
 - 🔒 Segurança e observabilidade desde o início: JWT, mascaramento de dados em logs e auditoria.
 - 🤖 Trabalho com agentes de IA (Claude Code) apoiados por uma **base de conhecimento no Obsidian, integrada via MCP**, por **skills e subagentes próprios** e por **um hook que roda checagens estáticas antes do deploy**.
-- 🌎 Português nativo e inglês avançado.
+- 🌎 Português nativo e inglês fluente.
 
 ---
 
